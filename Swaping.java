@@ -26,5 +26,6 @@ public static void main(String[] args) {
    //reverseusingswap(nums);
  swap(nums);
 }
-
 }
+
+
